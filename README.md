@@ -34,6 +34,3 @@ This repository contains the Naan Mudhalvan project: **Laptop Request Catalog** 
 | **Team**       | 4 Members                       |
 
 ---
-
-**Happy viewing!**  
-Feel free to reach out if you’d like help styling your README or embedding this PDF elsewhere.
