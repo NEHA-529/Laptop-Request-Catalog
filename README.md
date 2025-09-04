@@ -31,7 +31,6 @@ This repository contains the Naan Mudhalvan project: **Laptop Request Catalog** 
 | Detail         | Description                     |
 |----------------|---------------------------------|
 | **Program**    | Naan Mudhalvan                  |
-| **Domain**     | ServiceNow / ITSM               |
 | **Team**       | 4 Members                       |
 
 ---
